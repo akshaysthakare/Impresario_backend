@@ -26,7 +26,7 @@ Deployed Link :- "https://impresario-backend.onrender.com"
 2. The server will be running at `http://localhost:8000`.
 
 ## API Endpoints
-- `http://localhost:3000/api` - Swagger API documentation
+- `http://localhost:8000/api` - Swagger API documentation
 - `POST /auth/register` - Register a new user
 - `POST /auth/login` - Login a user
 - `GET /auth/me` - Reset user password
